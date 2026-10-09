@@ -68,7 +68,3 @@ This project demonstrates that I can build more than isolated configurations. I 
 ## What I Learned
 
 I learned how Windows Server roles work together as one manageable environment. I also learned that effective system administration requires planning across identity, security, storage, networking, remote access, and performance.
-
-## Evidence
-
-The video demonstration documents the configurations described above. Remove passwords, personal information, private addresses, and other sensitive data before publishing.
