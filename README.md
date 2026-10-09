@@ -6,9 +6,9 @@ I built this Windows Server home lab to practice managing the core systems an IT
 
 The lab models a business environment for PromisedLand.com. Each configuration decision connects to a practical goal: protecting company information, controlling access, supporting employees, and keeping infrastructure manageable as the organization grows.
 
-## Video Demonstration
+## Project Demonstration
 
-[Watch the Windows Server project demonstration](https://www.youtube.com/watch?v=0uhvytfR-aw)
+[![Watch the Project Demonstration](https://img.youtube.com/vi/0uhvytfR-aw/maxresdefault.jpg)](https://youtu.be/0uhvytfR-aw)
 
 ## What I Configured
 
